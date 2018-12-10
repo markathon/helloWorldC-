@@ -1,0 +1,4 @@
+﻿  library.cpp
+c:\users\f85759b\documents\deleteme\helloworld\helloworld\library.cpp(12): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\f85759b\documents\deleteme\helloworld\helloworld\library.cpp(12): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  helloWorld.vcxproj -> C:\Users\f85759b\Documents\Deleteme\helloWorld\Debug\helloWorld.exe
